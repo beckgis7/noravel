@@ -5,7 +5,6 @@ Starter template include other packages for building Flexible and Responsive Web
 
 Get Started:
 
-Clone repository url: https://github.com/delino12/noravel
 
 open your terminal or shell console
 ```javascript
